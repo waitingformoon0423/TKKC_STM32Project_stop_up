@@ -125,10 +125,10 @@ mingw32-make
 
 ## 致谢
 
-感谢指导老师的指导与帮助。
-感谢B站up主keysking
-感谢vscode,用vscode 写代码心情都会变好呢
-这里用到的cmake教程和Vscode 配置 Cmake编写STM32都是从up主那里学来的
+- 感谢指导老师的指导与帮助。
+- 感谢B站up主keysking
+- 感谢vscode,用vscode 写代码心情都会变好呢
+- 这里用到的cmake教程和Vscode 配置 Cmake编写STM32都是从up主那里学来的
 
 ---
 
