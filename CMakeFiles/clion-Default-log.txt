@@ -1,0 +1,5 @@
+"D:\Code\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" "-DCMAKE_MAKE_PROGRAM=D:/Code/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Coding\STM32Project\STM32F103ZET6\experiment\Stop_up -B D:\Coding\STM32Project\STM32F103ZET6\experiment\Stop_up
+Build type: Debug
+-- Configuring done (0.5s)
+-- Generating done (0.3s)
+-- Build files have been written to: D:/Coding/STM32Project/STM32F103ZET6/experiment/Stop_up
