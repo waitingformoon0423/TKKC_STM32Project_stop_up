@@ -2,6 +2,10 @@
 
 嘉庚学院单片机实验A期末课设作品，基于 STM32F103ZET6 开发的数码管秒表系统，支持基本计时和打点记圈功能。
 
+![STM32](https://img.shields.io/badge/STM32-F103ZET6-blue.svg)
+![C](https://img.shields.io/badge/language-C-orange.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## 开发环境
 
 - Windows 10/11
